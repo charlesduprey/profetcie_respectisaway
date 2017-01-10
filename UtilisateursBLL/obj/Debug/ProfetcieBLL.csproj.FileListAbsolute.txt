@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursBLL\bin\Debug\UtilisateursBLL.dll
+C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursBLL\bin\Debug\UtilisateursBLL.pdb
+C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursBLL\bin\Debug\UtilisateursBO.dll
+C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursBLL\bin\Debug\UtilisateursDAL.dll
+C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursBLL\bin\Debug\UtilisateursBO.pdb
+C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursBLL\bin\Debug\UtilisateursDAL.pdb
+C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursBLL\obj\Debug\ProfetcieBLL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursBLL\obj\Debug\UtilisateursBLL.dll
+C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursBLL\obj\Debug\UtilisateursBLL.pdb
+C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursBLL\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursBLL\bin\Debug\MySql.Data.xml
