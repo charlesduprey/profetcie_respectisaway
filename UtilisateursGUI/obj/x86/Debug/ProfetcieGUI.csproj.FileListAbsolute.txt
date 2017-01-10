@@ -26,3 +26,6 @@ C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursGUI\bin\Debug\U
 C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursGUI\bin\Debug\UtilisateursBO.pdb
 C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursGUI\bin\Debug\UtilisateursDAL.pdb
 C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursGUI\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\profetcie_respectisaway\UtilisateursGUI\bin\Debug\UtilisateursGUI.exe.config
+C:\Users\user\Desktop\profetcie_respectisaway\UtilisateursGUI\obj\x86\Debug\UtilisateursGUI.exe
+C:\Users\user\Desktop\profetcie_respectisaway\UtilisateursGUI\obj\x86\Debug\UtilisateursGUI.pdb
