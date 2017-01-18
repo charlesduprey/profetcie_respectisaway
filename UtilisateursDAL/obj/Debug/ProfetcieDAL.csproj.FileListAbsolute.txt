@@ -7,3 +7,12 @@ C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursDAL\bin\Debug\M
 C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursDAL\bin\Debug\UtilisateursBO.dll
 C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursDAL\bin\Debug\UtilisateursBO.pdb
 C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursDAL\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\profetcie_respectisaway\UtilisateursDAL\obj\Debug\ProfetcieDAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\profetcie_respectisaway\UtilisateursDAL\obj\Debug\UtilisateursDAL.dll
+C:\Users\user\Desktop\profetcie_respectisaway\UtilisateursDAL\obj\Debug\UtilisateursDAL.pdb
+C:\Users\user\Desktop\profetcie_respectisaway\UtilisateursDAL\bin\Debug\UtilisateursDAL.dll
+C:\Users\user\Desktop\profetcie_respectisaway\UtilisateursDAL\bin\Debug\UtilisateursDAL.pdb
+C:\Users\user\Desktop\profetcie_respectisaway\UtilisateursDAL\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\profetcie_respectisaway\UtilisateursDAL\bin\Debug\UtilisateursBO.dll
+C:\Users\user\Desktop\profetcie_respectisaway\UtilisateursDAL\bin\Debug\UtilisateursBO.pdb
+C:\Users\user\Desktop\profetcie_respectisaway\UtilisateursDAL\bin\Debug\MySql.Data.xml

@@ -6,20 +6,20 @@ using System.Configuration;
 using ProfetcieBO; // Référence la couche BO
 using ProfetcieDAL; // Référence la couche DAL
 
-namespace ProfetcieBLL
+namespace profetcieBLL
 {
-    public class GestionEleve
+    public class GestionQuestion
     {
-        private static GestionEleve uneGestionEleve; // Objet BLL
+        private static GestionQuestion uneGestionQuestion; // Objet BLL
 
         #region Accesseur en lecture
-        public static GestionEleve GetGestionEleve()
+        public static GestionQuestion GetGestionQuestion()
         {
-            if (uneGestionEleve == null)
+            if (uneGestionQuestion == null)
             {
-                uneGestionEleve = new GestionEleve();
+                uneGestionQuestion = new GestionQuestion();
             }
-            return uneGestionEleve;
+            return uneGestionQuestion;
         }
         #endregion
 
@@ -31,15 +31,11 @@ namespace ProfetcieBLL
         }
         #endregion
 
-        
-
-        #region Méthode GetEleves renvoyant une liste d'objets Eleve à partir de la méthode GetEleve de la DAL
-        public static List<Eleve> GetEleves()
+        #region Méthode GetQuestions renvoyant une liste d'objets Question à partir de la méthode GetQuestion de la DAL
+        public static List<Question> GetQuestions()
         {
-            return EleveDAO.GetEleves();
+            return QuestionDAO.GetLesQuestionDAO();
         }
         #endregion
-
-        
     }
 }

@@ -46,7 +46,7 @@
             this.menuLbl.Location = new System.Drawing.Point(450, 39);
             this.menuLbl.Margin = new System.Windows.Forms.Padding(14, 0, 14, 0);
             this.menuLbl.Name = "menuLbl";
-            this.menuLbl.Size = new System.Drawing.Size(299, 78);
+            this.menuLbl.Size = new System.Drawing.Size(263, 68);
             this.menuLbl.TabIndex = 93;
             this.menuLbl.Text = "Prof Et Cie";
             this.menuLbl.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -57,6 +57,7 @@
             this.textBox1.Location = new System.Drawing.Point(56, 202);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
+            this.textBox1.ReadOnly = true;
             this.textBox1.Size = new System.Drawing.Size(726, 171);
             this.textBox1.TabIndex = 95;
             this.textBox1.Text = "Bonjour ! bienvenue, souhaites tu faire une partie classique ou Insérer le mod ?";
@@ -103,9 +104,9 @@
             // 
             // Menu
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(28F, 64F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(24F, 56F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1152, 807);
+            this.ClientSize = new System.Drawing.Size(1154, 814);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox1);

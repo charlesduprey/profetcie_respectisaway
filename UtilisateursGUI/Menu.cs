@@ -14,7 +14,7 @@ using smo = Microsoft.SqlServer.Management.Smo;
 using System.Configuration;
 using System.Globalization;
 using System.Data.SqlClient;
-using UtilisateursDAL; // Référence la couche DAL
+using ProfetcieDAL; // Référence la couche DAL
 using System.IO;
 
 namespace UtilisateursGUI
@@ -27,7 +27,7 @@ namespace UtilisateursGUI
             InitializeComponent();
 
             // Récupération de chaîne de connexion à la BD à l'ouverture du formulaire
-            UtilisateursBLL.GestionEleve.SetchaineConnexion(ConfigurationManager.ConnectionStrings["Eleve"]);
+            ProfetcieBLL.GestionEleve.SetchaineConnexion(ConfigurationManager.ConnectionStrings["Eleve"]);
         }
 
 
@@ -37,6 +37,7 @@ namespace UtilisateursGUI
 
         #endregion
 
+        #region Bouton pour lancer le mode classique
         private void btnClassique(object sender, EventArgs e)
         {
             //affiche le mode de jeu classique
@@ -44,5 +45,6 @@ namespace UtilisateursGUI
             FrmModLect = new Classique();
             FrmModLect.ShowDialog();
         }
+        #endregion
     }
 }

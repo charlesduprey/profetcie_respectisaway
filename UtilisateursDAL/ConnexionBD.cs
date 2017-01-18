@@ -5,7 +5,7 @@ using System.Text;
 using MySql.Data;
 using MySql.Data.MySqlClient;
 
-namespace UtilisateursDAL
+namespace ProfetcieDAL
 {
     // Classe de gestion de la connexion à la BD
     public class ConnexionBD

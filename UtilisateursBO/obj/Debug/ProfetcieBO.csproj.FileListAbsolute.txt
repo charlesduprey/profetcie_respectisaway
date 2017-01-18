@@ -3,3 +3,7 @@ C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursBO\bin\Debug\Ut
 C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursBO\obj\Debug\ProfetcieBO.csprojResolveAssemblyReference.cache
 C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursBO\obj\Debug\UtilisateursBO.dll
 C:\Users\user\Desktop\profetcie_respectisaway-master\UtilisateursBO\obj\Debug\UtilisateursBO.pdb
+C:\Users\user\Desktop\profetcie_respectisaway\UtilisateursBO\obj\Debug\UtilisateursBO.dll
+C:\Users\user\Desktop\profetcie_respectisaway\UtilisateursBO\obj\Debug\UtilisateursBO.pdb
+C:\Users\user\Desktop\profetcie_respectisaway\UtilisateursBO\bin\Debug\UtilisateursBO.dll
+C:\Users\user\Desktop\profetcie_respectisaway\UtilisateursBO\bin\Debug\UtilisateursBO.pdb
